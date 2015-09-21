@@ -1,11 +1,15 @@
-# Ask @jglovier anything!
+# Ask me anything
 
 This is a quick little ask-me-anything type of repository. It is forked from
 [@holman's feedback repo](https://github.com/holman/feedback) (by way of [@mdo's joint](https://github.com/mdo/ama) :wink:) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
-If you have any technical problems with Git or GitHub, you're better off 
+I'm not an real or internet celebrity, so why would I do this, you ask? Because sometimes people have questions about stuff that I might have answers too, so why not!
+
+Here's a little background on me: I've been working for GitHub since June 2013, and I've been doing design professionally since 2004. I've worked remotely for my clients and employers for most of my career. I contribute regularly to open source projects, and I do both design and front-end dev type stuff. I've also got a life outside of the work things, so those topics are fair game too, if you're interested.
+
+*NOTE: If you have any technical problems with Git or GitHub, you're better off 
 [asking GitHub Support directly](https://github.com/contact), since you'll
-end up getting a much faster response back that way.
+end up getting a much faster response back that way.*
 
 ---
 
