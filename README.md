@@ -5,7 +5,7 @@ This is a quick little ask-me-anything type of repository. It is forked from
 
 I'm not an real or internet celebrity, so why would I do this, you ask? Because sometimes people have questions about stuff that I might have answers too, so why not!
 
-Here's a little background on me: I've been working for GitHub since June 2013, and I've been doing design professionally since 2004. I've worked remotely for my clients and employers for most of my career. I contribute regularly to open source projects, and I do both design and front-end dev type stuff. I've also got a life outside of the work things, so those topics are fair game too, if you're interested.
+Here's a little background on me: I've been [working for GitHub](https://github.com/blog/1522-joel-glovier-is-a-githubber) since June 2013, and I've been doing design professionally since 2004. I've worked remotely for my clients and employers for most of my career. I [contribute](https://github.com/jglovier?tab=repositories) [regularly](https://github.com/HospitalRun/hospitalrun-frontend/graphs/contributors) [to open source](https://github.com/jekyll/jekyll/graphs/contributors) projects, and I do both design and front-end dev type stuff. I've also got a [life](https://github.com/jglovier/project-car) [outside](https://github.com/jglovier/house-upkeep/issues) of the work things, so those topics are fair game too, if you're interested.
 
 *NOTE: If you have any technical problems with Git or GitHub, you're better off 
 [asking GitHub Support directly](https://github.com/contact), since you'll
