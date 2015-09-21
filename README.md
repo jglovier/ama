@@ -38,3 +38,9 @@ into some of the older threads.
 ### Twitter
 
 If you have something quick and easy, just ping me on Twitter. 140 characters makes everyone more efficient. I'm [@jglovier](https://twitter.com/jglovier) on Twitter.
+
+---
+
+### Make your own AMA!
+
+Want to do your own AMA? Just fork this repo, edit the README file for own details, and make sure to go to the repository Settings and check the Issues box (Issues are disabled by default on project forks).
